@@ -1,0 +1,26 @@
+[FnOffsetCache]
+DDRAW.DLL= 00081E00 1650EFBC
+IIDirectDraw4::CreateSurface=00032A62
+IDirectDrawSurface7::Flip=0003D907
+D3D8.DLL= 000FD200 050457D3
+IDirect3D8::CreateDevice=0003D8A0
+IDirect3DDevice8::Reset=000683E0
+D3D9.DLL= 001BE000 CA9CB054
+IDirect3D9::CreateDevice=0001D4B2
+IDirect3DDevice9::Reset=00058DDA
+DXGI.DLL= 0007BE00 EA34C7B5
+IDXGIFactory::CreateSwapChain=0002AD51
+IDXGISwapChain::ResizeBuffers=0002C2F9
+IDXGISwapChain::Present=0002D7B9
+kernel32.dll= 000CC400 49D7D261
+LoadLibraryA=00014BC6
+LoadLibraryW=00011E12
+[Settings]
+Skin=default.usf
+WindowX=1002
+WindowY=324
+FirstRun=0
+StartMinimized=1
+StartWithWindows=1
+[Shared]
+Flags=0
